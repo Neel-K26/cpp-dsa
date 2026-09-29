@@ -22,5 +22,6 @@ foreach(source_file ${BASIC_SOURCES})
             basics/largest_of_three_numbers_ternary_using_operator.cpp
             basics/area_of_circle.cpp
             basics/area_of_circle.cpp
-            basics/printing_ascii_value_of_character.cpp)
+            basics/printing_ascii_value_of_character.cpp
+            basics/write_program_read_char_upper_case.cpp)
 endforeach()
