@@ -11,5 +11,8 @@ file(GLOB BASIC_SOURCES CONFIGURE_DEPENDS
 
 foreach(source_file ${BASIC_SOURCES})
     get_filename_component(executable_name ${source_file} NAME_WE)
-    add_executable(${executable_name} ${source_file})
+    add_executable(${executable_name} ${source_file}
+            basics/calculate_area_triangle_heron.cpp
+            "basics/04_distance between_two_points.cpp"
+            "basics/04_distance between_two_points.cpp")
 endforeach()
