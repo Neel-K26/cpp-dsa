@@ -28,5 +28,9 @@ foreach(source_file ${BASIC_SOURCES})
             "Decision Trees and Looping Statements/charcter_entered_by_user.cpp"
             "Decision Trees and Looping Statements/larger_number_between_two_if_else.cpp"
             "Decision Trees and Looping Statements/odd_even_using_if_else.cpp"
-            "Decision Trees and Looping Statements/Diwali_bonus_program_if_else.cpp")
+            "Decision Trees and Looping Statements/Diwali_bonus_program_if_else.cpp"
+            "Decision Trees and Looping Statements/income_tax_calculation_using_if_elseif.cpp"
+            "Decision Trees and Looping Statements/Grade_calculation_using_switch_case.cpp"
+            "Decision Trees and Looping Statements/Grade_calculation_using_switch_case.h"
+    )
 endforeach()
