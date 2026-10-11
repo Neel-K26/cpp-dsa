@@ -24,13 +24,18 @@ foreach(source_file ${BASIC_SOURCES})
             basics/area_of_circle.cpp
             basics/printing_ascii_value_of_character.cpp
             basics/write_program_read_char_upper_case.cpp
-            "Decision Trees and Looping Statements/01_eligible_to_vote_decision_statement_ds.cpp"
-            "Decision Trees and Looping Statements/charcter_entered_by_user.cpp"
-            "Decision Trees and Looping Statements/larger_number_between_two_if_else.cpp"
-            "Decision Trees and Looping Statements/odd_even_using_if_else.cpp"
-            "Decision Trees and Looping Statements/Diwali_bonus_program_if_else.cpp"
-            "Decision Trees and Looping Statements/income_tax_calculation_using_if_elseif.cpp"
-            "Decision Trees and Looping Statements/Grade_calculation_using_switch_case.cpp"
-            "Decision Trees and Looping Statements/Grade_calculation_using_switch_case.h"
+            "Decision Statements/01_eligible_to_vote_decision_statement_ds.cpp"
+            "Decision Statements/charcter_entered_by_user.cpp"
+            "Decision Statements/larger_number_between_two_if_else.cpp"
+            "Decision Statements/odd_even_using_if_else.cpp"
+            "Decision Statements/Diwali_bonus_program_if_else.cpp"
+            "Decision Statements/income_tax_calculation_using_if_elseif.cpp"
+            "Decision Statements/Grade_calculation_using_switch_case.cpp"
+            "Decision Statements/Grade_calculation_using_switch_case.h"
+            "Looping Statements/First_10_numbers_while_loop_program.cpp"
+            "Looping Statements/sum_of_first_10_numbers_while_loop.cpp"
+            "Looping Statements/20_horizontal_astrisks.cpp"
+            "Looping Statements/largest_of_10_using_ternary_while.cpp"
+            "Looping Statements/read_numbers_by_user.cpp"
     )
 endforeach()
