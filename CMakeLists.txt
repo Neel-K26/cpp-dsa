@@ -37,5 +37,6 @@ foreach(source_file ${BASIC_SOURCES})
             "Looping Statements/20_horizontal_astrisks.cpp"
             "Looping Statements/largest_of_10_using_ternary_while.cpp"
             "Looping Statements/read_numbers_by_user.cpp"
+            "Looping Statements/LEAP_YEAR_DO_WHILE.cpp"
     )
 endforeach()
