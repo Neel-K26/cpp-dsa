@@ -23,5 +23,10 @@ foreach(source_file ${BASIC_SOURCES})
             basics/area_of_circle.cpp
             basics/area_of_circle.cpp
             basics/printing_ascii_value_of_character.cpp
-            basics/write_program_read_char_upper_case.cpp)
+            basics/write_program_read_char_upper_case.cpp
+            "Decision Trees and Looping Statements/01_eligible_to_vote_decision_statement_ds.cpp"
+            "Decision Trees and Looping Statements/charcter_entered_by_user.cpp"
+            "Decision Trees and Looping Statements/larger_number_between_two_if_else.cpp"
+            "Decision Trees and Looping Statements/odd_even_using_if_else.cpp"
+            "Decision Trees and Looping Statements/Diwali_bonus_program_if_else.cpp")
 endforeach()
