@@ -46,5 +46,9 @@ foreach(source_file ${BASIC_SOURCES})
             "Looping Statements/pattern_program_06_ascending_number_in ascending_pyramid.cpp"
             "Looping Statements/pattern_program_07_alphabetic.cpp"
             "Looping Statements/central_pyramid_pattern.cpp"
+            "Looping Statements/odd_even_classify_for_loop.cpp"
+            "Looping Statements/program_calculate_average_first_n_numbers.cpp"
+            "Looping Statements/factorial_using_for_loop.cpp"
+            "Looping Statements/reverse_print_number_for_loop.cpp"
     )
 endforeach()
