@@ -44,5 +44,7 @@ foreach(source_file ${BASIC_SOURCES})
             "Looping Statements/pattern_program_4_ascending_pyramid_part2.cpp"
             "Looping Statements/pattern_program_5_double_number_pattern.cpp"
             "Looping Statements/pattern_program_06_ascending_number_in ascending_pyramid.cpp"
+            "Looping Statements/pattern_program_07_alphabetic.cpp"
+            "Looping Statements/central_pyramid_pattern.cpp"
     )
 endforeach()
