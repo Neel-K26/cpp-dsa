@@ -57,5 +57,7 @@ foreach(source_file ${BASIC_SOURCES})
             "Looping Statements/GCD_program.cpp"
             "Looping Statements/arthimetic_square_sum_series_part_2.cpp"
             "Looping Statements/sum_of_square_even_numbers_series.cpp"
+            "Looping Statements/armstrong_number.cpp"
+            "Looping Statements/Value_Of_Investment.cpp"
     )
 endforeach()
