@@ -38,5 +38,11 @@ foreach(source_file ${BASIC_SOURCES})
             "Looping Statements/largest_of_10_using_ternary_while.cpp"
             "Looping Statements/read_numbers_by_user.cpp"
             "Looping Statements/LEAP_YEAR_DO_WHILE.cpp"
+            "Looping Statements/for_loop_pattern_program_01.cpp"
+            "Looping Statements/pattern_program_02_for_loop.cpp"
+            "Looping Statements/pattern_program_03_ascending_pyramid.cpp"
+            "Looping Statements/pattern_program_4_ascending_pyramid_part2.cpp"
+            "Looping Statements/pattern_program_5_double_number_pattern.cpp"
+            "Looping Statements/pattern_program_06_ascending_number_in ascending_pyramid.cpp"
     )
 endforeach()
