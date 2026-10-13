@@ -50,5 +50,12 @@ foreach(source_file ${BASIC_SOURCES})
             "Looping Statements/program_calculate_average_first_n_numbers.cpp"
             "Looping Statements/factorial_using_for_loop.cpp"
             "Looping Statements/reverse_print_number_for_loop.cpp"
+            "Looping Statements/sum_of_entered_digits.cpp"
+            "Looping Statements/decimal_equivalent_while_loop.cpp"
+            "Looping Statements/binary_to_decimal_equivalent.cpp"
+            "Looping Statements/arthimetic_mean_series_part_1.cpp"
+            "Looping Statements/GCD_program.cpp"
+            "Looping Statements/arthimetic_square_sum_series_part_2.cpp"
+            "Looping Statements/sum_of_square_even_numbers_series.cpp"
     )
 endforeach()
