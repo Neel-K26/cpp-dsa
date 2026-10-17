@@ -59,5 +59,6 @@ foreach(source_file ${BASIC_SOURCES})
             "Looping Statements/sum_of_square_even_numbers_series.cpp"
             "Looping Statements/armstrong_number.cpp"
             "Looping Statements/Value_Of_Investment.cpp"
+            Functions/function_program_01_sample.cpp
     )
 endforeach()
